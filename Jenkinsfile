@@ -11,7 +11,7 @@ pipeline {
       parallel {
         stage('test') {
           steps {
-            echo 'test d\'intégration'
+            echo 'test d\'intÃ©gration'
           }
         }
 
